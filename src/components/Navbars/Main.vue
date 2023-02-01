@@ -4,9 +4,9 @@ import { RouterLink } from 'vue-router'
 
 <template>
   <nav class="border-bottom">
-    <div class="app-container d-flex justify-content-between">
-      <div class="logo p-4 font-weight-bold">LOGO</div>
-      <ul class="list-unstyled d-flex justify-content-between align-items-center px-4 mb-0">
+    <div class="app-container d-flex flex-wrap justify-content-between">
+      <div class="logo p-4 font-weight-bold text-center mx-auto">LOGO</div>
+      <ul class="list-unstyled d-flex flex-wrap justify-content-between align-items-center px-4 mb-0">
         <li>
           <router-link class="text-black-50 p-2 text-decoration-none font-weight-bold" to="/">
             {{ $t('navbar.home') }}
@@ -43,7 +43,7 @@ import { RouterLink } from 'vue-router'
           </router-link>
         </li>
       </ul>
-      <div class="d-flex">
+      <div class="d-flex mx-auto">
         <button class="logo app-bg-secondary-color p-4 font-weight-bold border border-top-0 text-white">
           {{ $t('navbar.login') }}
         </button>
