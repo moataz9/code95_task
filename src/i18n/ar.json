@@ -1,0 +1,35 @@
+{
+  "lang": {
+    "ar": "اللغة العربية",
+    "en": "اللغة الانجليزية"
+  },
+  "navbar": {
+    "home": "الصفحة الرئيسية",
+    "our_products": "منتجاتنا",
+    "financial_sustainability": "مقياس الاستدامة المالية",
+    "about_measure": "حول المقياس",
+    "who_we_are": "من نحن",
+    "contact_us": "تواصل معنا",
+    "fqa": "الاسئلة الشائعة",
+    "login": "تسجيل الدخول"
+  },
+  "form": {
+    "ask_for_product": "\"نموذج طلب المنتج \"هندسة الموسم",
+    "organization_data": "بيانات المنظمة",
+    "organization_name": "اسم المنظمة",
+    "organization_specialty": "تخصص المنظمة",
+    "region": "المنطقة",
+    "town": "المدينة - المحافظة",
+    "needed_package": "الباقة المطلوبة",
+    "choose_package": "اختر الباقة",
+    "next": "التالى",
+    "responsible_person": "اسم المسئول",
+    "responsible_persons_data": "بيانات المسئولين",
+    "his_position": "منصبه",
+    "phone_number": "رقم الجوال",
+    "authorized_person": "اسم المفوض بالتواصل",
+    "e_mail": "البريد الالكترونى",
+    "notes": "ملاحظات",
+    "request_product": "طلب المنتج"
+  }
+}

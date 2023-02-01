@@ -1,0 +1,23 @@
+.app-bg-primary-color {
+  background-color: rgb(13, 46, 117);
+}
+.app-bg-secondary-color {
+  background-color: rgb(101, 189, 225);
+}
+.app-primary-color {
+  color: rgb(13, 46, 117);
+}
+.app-secondary-color {
+  color: rgb(101, 189, 225);
+}
+@media screen and (min-width: 1400px) {
+  .app-container {
+    max-width: 1400px;
+    margin-right: auto;
+    margin-left: auto;
+  }
+}
+
+.focus:focus {
+  outline: 1px solid rgb(101, 189, 225);
+}

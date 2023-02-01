@@ -1,0 +1,35 @@
+{
+  "lang": {
+    "ar": "Arabic",
+    "en": "english"
+  },
+  "navbar": {
+    "home": "Home",
+    "our_products": "Our Products",
+    "financial_sustainability": "Measure Of Financial Sustainability",
+    "about_measure": "About Measure",
+    "who_we_are": "Who We Are",
+    "contact_us": "Contact Us",
+    "fqa": "FQA",
+    "login": "Login"
+  },
+  "form": {
+    "ask_for_product": "Ask For The Product \"Season geometry\"",
+    "organization_data": "Organization Data",
+    "organization_name": "Organization Name",
+    "organization_specialty": "Organization Specialty",
+    "region": "Region",
+    "town": "Town",
+    "needed_package": "Needed Package",
+    "choose_package": "Choose Package",
+    "next": "Next",
+    "responsible_person": "Responsible Person",
+    "responsible_persons_data": "Responsible Persons Data",
+    "his_position": "His Position",
+    "phone_number": "Phone Number",
+    "authorized_person": "Authorized Person",
+    "e_mail": "e-mail",
+    "notes": "Notes",
+    "request_product": "Request Product"
+  }
+}
